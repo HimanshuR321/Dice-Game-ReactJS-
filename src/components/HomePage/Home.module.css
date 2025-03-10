@@ -1,0 +1,26 @@
+.dices{
+    height: 522px;
+    width: 649px;
+}
+
+.text{
+    font-size: 96px;
+}
+
+.section{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+.blackBtn{
+    background-color: black;
+    color: white;
+}
